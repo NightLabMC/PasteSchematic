@@ -1,5 +1,5 @@
 # PasteSchematic
-Minecraft spigot plugin provides custom schematic paste command.
+Minecraft spigot plugin provides a custom schematic paste command.
 
 Command:
 /SchemPaste <SchematicName> <world> <X> <Y> <Z>
